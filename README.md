@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height=30px"></a> <h1 align="center">Hi HEY THIS IS PRINCESS😊💫</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height=30px"></a> <h1>Hi HEY THIS IS PRINCESS😊💫</h1>
 
 <p align="center">
 
