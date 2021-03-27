@@ -487,8 +487,8 @@ def gbanstat(update: Update, context: CallbackContext):
         if args[0].lower() in ["on", "yes"]:
             sql.enable_gbans(update.effective_chat.id)
             update.effective_message.reply_text(
-                "Antispam is now enabled ✅ "
-                "I am now protecting your group from potential remote threats!"
+                "Antispam is now enabled ✅"
+                "I am now protecting your group from potential remote threats!Credits goes to[⚡Dev🥺](https://t.me/Mr_Purushottam_M)"
             )
         elif args[0].lower() in ["off", "no"]:
             sql.disable_gbans(update.effective_chat.id)
