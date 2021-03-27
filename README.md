@@ -10,7 +10,7 @@ Me On Telegram <b>[✨𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉✨](https
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">
-  <img src="https://media.giphy.com/media/tXwHTbQuyjo1q/giphy.gif">
+  <img src="https://media.giphy.com/media/tXwHTbQuyjo1q/giphy.gif" width="730" height="220"/></a></p>
 </p>
 
 
