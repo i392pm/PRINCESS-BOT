@@ -1,27 +1,28 @@
 
-<p align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height=30px"></a><p></a><HEY THIS IS PRINCESS😊💫>
+<p align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height=30px"></a><p></a>HEY THIS IS PRINCESS😊💫
 
+
+
+PRINCESS BOT : These Is An New Generation Telegram Group Manager Bot Based On(🔸Fast 🔸Python🔸Pyrogram 🔸Telethon 🔸Mongo db)
+ 
+༆``Successed Version On Telegram´´ <b>[✨𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉✨](https://t.me/The_Princess2_Bot)<b>
+# Info 
 <p align="center">
-
-<br>
-
+    <a href="https://github.com/PURHSHOTTAM/PRINCESS-BOT"><img src="https://img.shields.io/github/stars/PURUSHOTTAM/PRINCESS-BOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+</p>
+<p align="center">
+    <a href="https://app.codacy.com/manual/PURHSHOTTAM//dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/PURHSHOTTAM/PRINCESS-BOT"> <img src="https://img.shields.io/github/repo-size/PURHSHOTTAM/PRINCESS-BOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PURHSHOTTAM/PRINCESS-BOT/commits/prince"> <img src="https://img.shields.io/github/last-commit/PURHSHOTTAM/PRINCESS-BOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PURHSHOTTAM/PRINCESS-BOTssues"> <img src="https://img.shields.io/github/issues/PURHSHOTTAM/PRINCESS-BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/PURHSHOTTAM/PRINCESS-BOT/network/members"> <img src="https://img.shields.io/github/forks/PURHSHOTTAM/PRINCESS-BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+</p>
 <p align="center">
 
 <a href="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT"><img src="https://media.giphy.com/media/tXwHTbQuyjo1q/giphy.gif" alt="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT" height=300px, width=720px></a>
 
 <br>
-" 
-
-
-<b>𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉<b>
-
-Me On Telegram <b>[✨𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉✨](https://t.me/The_Princess2_Bot)<b>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/tXwHTbQuyjo1q/giphy.gif" width="730" height="420"/></a></p>
-</p>
-
 
 ## How To Host
 The easiest way to deploy this Bot
