@@ -1,6 +1,16 @@
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" HEY THIS IS PRINCESS😊💫 ></a></p>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"/></a></p>
+<p align="center">
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT"><img src="https://media.giphy.com/media/tXwHTbQuyjo1q/giphy.gif" alt="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT" height=300px, width=720px></a>
+
+<br>
+" 
 
 
 <b>𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉<b>
